@@ -2,31 +2,32 @@
 </p>
 
 <p align="center">
-    <img alt="Size" src="https://img.shields.io/github/repo-size/InPhyT/DataMiningProject">
+    <img alt="Size" src="https://img.shields.io/github/repo-size/InPhyT/IMDb_Sentiment_Analysis_BERT">
   </a>
-  <img alt="Forks" src="https://img.shields.io/github/forks/InPhyT/DataMiningProject">
+  <img alt="Forks" src="https://img.shields.io/github/forks/InPhyT/IMDb_Sentiment_Analysis_BERT">
   </a>
-  <img alt="Stars" src="https://img.shields.io/github/stars/InPhyT/DataMiningProject">
+  <img alt="Stars" src="https://img.shields.io/github/stars/InPhyT/IMDb_Sentiment_Analysis_BERT">
   </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/InPhyT/DataMiningProject">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/InPhyT/IMDb_Sentiment_Analysis_BERT">
   </a>
-  <a href="https://github.com/InPhyT/DataMiningProject/graphs/contributors">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/InPhyT/DataMiningProject">
+  <a href="https://github.com/InPhyT/IMDb_Sentiment_Analysis_BERT/graphs/contributors">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/InPhyT/IMDb_Sentiment_Analysis_BERT">
   </a>
-  <img alt="Licence" src="https://img.shields.io/github/license/InPhyT/DataMiningProject">
+  <img alt="Licence" src="https://img.shields.io/github/license/InPhyT/IMDb_Sentiment_Analysis_BERT">
   </a>
-  <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FInPhyT%2FDataMiningProject"
+  <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FInPhyT%2FIMDb_Sentiment_Analysis_BERT"
   </a>
   
 </p>
 
 <!-- Title -->
 <h1 align="center">
-  BERT Sentiment Classification on the Large Movie Review Dataset
+  IMDb Sentiment Analysis
 </h1>
 
 <!-- Subtitle -->
 <h3 align="center">
+  BERT Sentiment Classification on the IMDb Large Movie Review Dataset
 </h3>
 
 <!-- Badges -->
