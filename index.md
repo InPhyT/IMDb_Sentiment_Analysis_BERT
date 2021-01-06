@@ -1,18 +1,3 @@
-<!-- Title -->
-<h1 align="center">
-  Data Mining Project
-</h1>
-
-<!-- Subtitle -->
-<h3 align="center">
-  BERT Sentiment Classification
-</h3>
-
-## Team 
-* [Monticone Pietro](https://github.com/pitmonticone)
-* [Moroni Claudio](https://github.com/claudio20497)
-* [Orsenigo Davide](https://github.com/dadorse)
-
 ## Problem: *Sentiment Classification*
 
 A sentiment classification problem consists, roughly speaking, in detecting a piece of text and predicting if the author likes or dislikes what he/she is talking about: the input *X* is a piece of text and the output *Y* is the sentiment we want to predict, such as the rating of a movie review.
