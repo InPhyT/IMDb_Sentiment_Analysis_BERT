@@ -1,25 +1,3 @@
-<!-- Meta-Badges -->
-</p>
-
-<p align="center">
-    <img alt="Size" src="https://img.shields.io/github/repo-size/InPhyT/DataMiningProject">
-  </a>
-  <img alt="Forks" src="https://img.shields.io/github/forks/InPhyT/DataMiningProject">
-  </a>
-  <img alt="Stars" src="https://img.shields.io/github/stars/InPhyT/DataMiningProject">
-  </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/InPhyT/DataMiningProject">
-  </a>
-  <a href="https://github.com/InPhyT/DataMiningProject/graphs/contributors">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/InPhyT/DataMiningProject">
-  </a>
-  <img alt="Licence" src="https://img.shields.io/github/license/InPhyT/DataMiningProject">
-  </a>
-  <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FInPhyT%2FDataMiningProject"
-  </a>
-  
-</p>
-
 <!-- Title -->
 <h1 align="center">
   Data Mining Project
@@ -27,35 +5,13 @@
 
 <!-- Subtitle -->
 <h3 align="center">
-  BERT Sentiment Classification on the Large Movie Review Dataset
+  BERT Sentiment Classification
 </h3>
 
-<!-- Badges -->
-</p>
-
-<p align="center">
-  <a href="https://www.kaggle.com/inphyt2020/dataminingproject">
-    <img alt="Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg">
-  </a>
-  <a href="https://nbviewer.jupyter.org/github/InPhyT/DataMiningProject/">
-    <img alt="nbviewer" src="https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg">
-  </a>
-  <a href="https://colab.research.google.com/github/InPhyT/DataMiningProject/blob/master">
-    <img alt="Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
-  </a>
-  
-</p>
-
-
 ## Team 
-* Monticone Pietro | [Mail](pietro.monticone@edu.unito.it) | [Github](https://github.com/pitmonticone)
-* Moroni Claudio | [Mail](claudio.moroni@edu.unito.it) | [Github](https://github.com/claudio20497)
-* Orsenigo Davide | [Mail](davide.orsenigo@edu.unito.it) | [Github](https://github.com/daorse) 
-
-## How to Explore this Work
-
-* Read the code in the [Jupyter notebooks](https://nbviewer.jupyter.org/github/InPhyT/DataMiningProject/blob/master/Notebooks).
-* Run the code in the [Kaggle notebook](https://www.kaggle.com/inphyt2020/dataminingproject).
+* [Monticone Pietro](https://github.com/pitmonticone)
+* [Moroni Claudio](https://github.com/claudio20497)
+* [Orsenigo Davide](https://github.com/dadorse)
 
 ## Problem: *Sentiment Classification*
 
@@ -78,7 +34,7 @@ The [dataset](https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz) c
 #### Reference 
 Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). [Learning Word Vectors for Sentiment Analysis](https://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf). The 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011).
 
-## Theory
+## Theoretical introduction
 
 ### The encoder-decoder sequence
 
@@ -120,11 +76,9 @@ The first token is not "START". In order to use BERT as a pre-trained language m
 * the model has been trained to predict the next sentence, not just the next word; 
 * the semantic information of the sentence is encoded in the prediction output of "CLS" as a document vector of 512 elements.
 
-![](https://github.com/InPhyT/DataMiningProject/blob/master/Images/diagram.png)
+![](https://github.com/pitmonticone/data-mining-bert/blob/master/images/bert-diagram.png)
 
-## References
-
-### Datasets
+## Datasets
 
 * [bert_final_data](https://www.kaggle.com/dataset/c57aa27bcd81c6062bf454a37f1c55a8730a90a69a9e95a49252fbd660befebf)
 * Processed IMBD
@@ -132,7 +86,7 @@ The first token is not "START". In order to use BERT as a pre-trained language m
   * https://www.kaggle.com/dataset/9850d2e4b7d095e2b723457263fbef547437b159e3eb7ed6dc2e88c7869fca0b
 * [Bert-For-Tf2](https://www.kaggle.com/juanumusic/bert-for-tf2)
 
-### Articles
+## References
 * [Google github repository](https://github.com/google-research/bert)
 * [BERT: *Pre-training of Deep Bidirectional Transformers for Language Understanding*](https://arxiv.org/abs/1810.04805) 
 * [A Visual Guide to Using BERT for the First Time](https://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
