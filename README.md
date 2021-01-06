@@ -22,12 +22,11 @@
 
 <!-- Title -->
 <h1 align="center">
-  Data Mining Project
+  BERT Sentiment Classification on the Large Movie Review Dataset
 </h1>
 
 <!-- Subtitle -->
 <h3 align="center">
-  BERT Sentiment Classification on the Large Movie Review Dataset
 </h3>
 
 <!-- Badges -->
